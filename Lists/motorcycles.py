@@ -36,3 +36,11 @@ print(apples)
 print(popped_apples) 
 
 # Use del() to delete if you will not use that item in any way, use pop() if you want to use an item as you remove it.
+
+apples.remove('bramley')
+print(apples) # remove() method removes an item that you don't know the value of.
+
+taste = 'red delicious'
+apples.remove(taste)
+print(apples)
+print("\nA " + taste.title() + " is too bitter for me.")
