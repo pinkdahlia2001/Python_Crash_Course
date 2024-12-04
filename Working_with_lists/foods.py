@@ -5,10 +5,15 @@ my_foods.append('cannoli')
 friend_foods.append('ice cream')
 
 print("My favourite foods are:")
-print(my_foods)
+for mine in my_foods:
+    print(mine.title())
+
 
 print("\nMy friend's favourite foods are:")
-print(friend_foods)
+for hers in friend_foods:
+    print(hers.title())
+
 
 # If you don't use [:] when copying a list, and instead just use =, you didn't store a copy of the first list into the second list.
 # Any new items appended or inserted will be identical in both lists if you don't use [:]
+
