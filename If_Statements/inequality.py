@@ -6,4 +6,3 @@ if requested_topping != "anchovies": # if requested_topping is NOT equal to anch
     print("Hold the anchovies!")
 # If the two values don't match, Python returns true and executes the code following the if statement.
 # If the two values match, Python returns false and doesn't run the code following the if statement.
-
