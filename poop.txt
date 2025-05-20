@@ -1,0 +1,38 @@
+3.1415926535
+  8979323846
+  2643383279
+
+
+
+
+sybr_0h_pa079 = []
+sybr_2h_pa079 = []
+sybr_4h_pa079 = []
+sybr_24h_pa079 = []
+
+sybr_0h_pa033 = []
+sybr_2h_pa033 = []
+sybr_4h_pa033 = []
+sybr_24h_pa033 = []
+
+sybr_0h_pa039 = []
+sybr_2h_pa039 = []
+sybr_4h_pa039 = []
+sybr_24h_pa039 = []
+
+sybr_0h_pa131 = []
+sybr_2h_pa131 = []
+sybr_4h_pa131 = []
+sybr_24h_pa131 = []
+
+sybr_0h_pa213 = []
+sybr_2h_pa213 = []
+sybr_4h_pa213 = []
+sybr_24h_pa213 = []
+
+sybr_0h_pa056 = []
+sybr_2h_pa056 = []
+sybr_4h_pa056 = []
+sybr_24h_pa056 = []
+
+
